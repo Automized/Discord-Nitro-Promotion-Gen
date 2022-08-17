@@ -25,3 +25,7 @@
 - Creates an account using webdriver based registration
 - Makes login request to get ticket key and uid
 - Uses the login request data to get the cdkey (nitro promotion code)
+
+<br />
+<br />
+*This code is not optimized/includes error handling, the program will most likely crash*
